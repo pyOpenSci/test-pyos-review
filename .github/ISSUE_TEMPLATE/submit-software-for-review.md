@@ -2,31 +2,26 @@
 name: Submit Software for Review
 about: Use to submit your Python package for pyOpenSci peer review
 title: ''
-labels: 1/editor-checks, New Submission!
+labels: 0/pre-review-checks, New Submission!
 assignees: ''
 
 ---
 
-Submitting Author:  <!--author-name-->AUTHOR_NAME<!--end-author-name--> (<!--author-handle-->@AUTHOR_GITHUB_HANDLE<!--end-author-handle-->)
+Submitting Author: Name (@github_handle)
 All current maintainers: (@github_handle1, @github_handle2)
 Package Name: Package name here
 One-Line Description of Package: Description here 
-Repository Link: <!--target-repository-->URL_OF_THE_SOFTWARE_REPO<!--end-target-repository--> 
-Version submitted: <!--version-submitted-->VERSION<!--end-version-submitted--> 
-
-
-Editor: <!--editor-->TBD<!--end-editor-->  
-Reviewers: <!--reviewers-list--><!--end-reviewers-list-->
-Archive: <!--archive-->TBD<!--end-archive-->
-JOSS DOI: <!--joss-doi-->TBD<!--end-joss-doi--> 
-Version accepted: <!--version-->TBD<!--end-version--> 
-Date accepted (month/day/year): <!--date-accepted-->TBD<!--end-date-accepted--> 
+Repository Link:  
+Version submitted:   
+Editor: TBD  
+Reviewer 1: TBD  
+Reviewer 2: TBD  
+Archive: TBD
+JOSS DOI: TBD
+Version accepted: TBD 
+Date accepted (month/day/year): TBD
 
 ---
-
-## TEST SUBMISSION
-
-:warning: This is a test submission in a test repository :warning:
 
 ## Code of Conduct & Commitment to Maintain Package
 
@@ -55,19 +50,17 @@ scope. (If you are unsure of which category you fit, we suggest you make a pre-s
 	- [ ] Scientific software wrappers
 	- [ ] Database interoperability
 
-Domain Specific & Community Partnerships 
+## Domain Specific
 
-	- [ ] Geospatial
-	- [ ] Education
-	- [ ] Pangeo
+- [ ] Geospatial
+- [ ] Education
 	
-
 ## Community Partnerships
 If your package is associated with an 
 existing community please check below:
 
-- [ ] [Pangeo][pangeoWebsite]
-	- [ ] My package adheres to the [Pangeo standards listed in the pyOpenSci peer review guidebook][PangeoCollaboration]
+- [ ] Astropy: Link coming soon to standards
+- [ ] Pangeo: My package adheres to the [Pangeo standards listed in the pyOpenSci peer review guidebook][PangeoCollaboration]
 
 > [^1]: Please fill out a pre-submission inquiry before submitting a data visualization package.
 
