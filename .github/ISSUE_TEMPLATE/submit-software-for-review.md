@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-Submitting Author: Name (@github_handle)
+Submitting Author: <!--author-name-->AUTHOR_NAME<!--end-author-name--> (<!--author-handle-->@AUTHOR_GITHUB_HANDLE<!--end-author-handle-->)
 All current maintainers: (@github_handle1, @github_handle2)
 Package Name: Package name here
 One-Line Description of Package: Description here 
-Repository Link:  
-Version submitted:   
-Editor: TBD  
-Reviewer 1: TBD  
-Reviewer 2: TBD  
-Archive: TBD
-JOSS DOI: TBD
-Version accepted: TBD 
-Date accepted (month/day/year): TBD
+Repository Link:  <!--target-repository-->URL_OF_THE_SOFTWARE_REPO<!--end-target-repository-->
+Version submitted: <!--version-submitted-->VERSION<!--end-version-submitted--> 
+Editor: <!--editor-->TBD<!--end-editor-->   
+Reviewer 1: <!--reviewers-list--><!--end-reviewers-list--> 
+Reviewer 2: <!--reviewers-list--><!--end-reviewers-list-->  
+Archive: <!--archive-->TBD<!--end-archive-->
+JOSS DOI: <!--joss-doi-->TBD<!--end-joss-doi--> 
+Version accepted: <!--version-->TBD<!--end-version-->  
+Date accepted (month/day/year): <!--date-accepted-->TBD<!--end-date-accepted--> 
 
 ---
 
