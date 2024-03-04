@@ -1,6 +1,6 @@
 ---
 name: Submit Software for Review
-about: Use to submit your Python package for pyOpenSci peer review
+description: Use to submit your Python package for pyOpenSci peer review
 title: ''
 labels: 0/pre-review-checks, New Submission!
 assignees: ''
@@ -14,8 +14,7 @@ One-Line Description of Package: Description here
 Repository Link:  <!--target-repository-->URL_OF_THE_SOFTWARE_REPO<!--end-target-repository-->
 Version submitted: <!--version-submitted-->VERSION<!--end-version-submitted--> 
 Editor: <!--editor-->TBD<!--end-editor-->   
-Reviewer 1: <!--reviewers-list--><!--end-reviewers-list--> 
-Reviewer 2: <!--reviewers-list--><!--end-reviewers-list-->  
+Reviewers: <!--reviewers-list--><!--end-reviewers-list-->  
 Archive: <!--archive-->TBD<!--end-archive-->
 JOSS DOI: <!--joss-doi-->TBD<!--end-joss-doi--> 
 Version accepted: <!--version-->TBD<!--end-version-->  
