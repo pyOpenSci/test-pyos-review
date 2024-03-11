@@ -2,7 +2,7 @@
 name: Submit Software for Review
 about: Use to submit your Python package for pyOpenSci peer review
 title: ''
-labels: 0/pre-review-checks, New Submission!
+labels: New Submission!
 assignees: ''
 
 ---
