@@ -7,7 +7,7 @@ buffy:
     editors: 6762239
   responders:
     help:
-    hello:
-      	hidden: true
+	hello:
+      hidden: true
     thanks:
       hidden: true
