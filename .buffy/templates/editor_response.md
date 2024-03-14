@@ -3,8 +3,8 @@
 ---
 
 ## Editor comments
-:wave: Hi @reviewer-one and @reviewer-two! Thank you for volunteering to review
-for pyOpenSci! <Add any additional banter here that you wish..>
+:wave: Hi {{reviewers-list}}! Thank you for volunteering to review
+for pyOpenSci!
 
 
 ### Please fill out our pre-review survey
