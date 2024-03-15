@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-Submitting Author: <!--author-name-->AUTHOR_NAME<!--end-author-name--> (<!--author-handle-->@AUTHOR_GITHUB_HANDLE<!--end-author-handle-->)
+Submitting Author: <!--author-name--> <!--end-author-name--> (<!--author-handle--> <!--end-author-handle-->)
 All current maintainers: (@github_handle1, @github_handle2)
 Package Name: Package name here
 One-Line Description of Package: Description here 
-Repository Link:  <!--target-repository-->URL_OF_THE_SOFTWARE_REPO<!--end-target-repository-->
-Version submitted: <!--version-submitted-->VERSION<!--end-version-submitted--> 
+Repository Link:  <!--target-repository--> <!--end-target-repository-->
+Version submitted: <!--version-submitted--> <!--end-version-submitted--> 
 Editor: <!--editor-->TBD<!--end-editor-->   
 Reviewers: <!--reviewers-list--><!--end-reviewers-list-->  
 Archive: <!--archive-->TBD<!--end-archive-->
