@@ -13,6 +13,7 @@ Package Name: Package name here
 One-Line Description of Package: Description here 
 Repository Link:  <!--target-repository--> <!--end-target-repository-->
 Version submitted: <!--version-submitted--> <!--end-version-submitted--> 
+Editor-in-Chief: <!--eic-->TBD <!--end-eic-->
 Editor: <!--editor-->TBD<!--end-editor-->   
 Reviewers: <!--reviewers-list--><!--end-reviewers-list-->  
 Archive: <!--archive-->TBD<!--end-archive-->
