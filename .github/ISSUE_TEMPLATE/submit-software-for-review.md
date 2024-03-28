@@ -9,7 +9,7 @@ assignees: ''
 
 Submitting Author: <!--author-name--> <!--end-author-name--> (<!--author-handle--> <!--end-author-handle-->)
 All current maintainers: (@github_handle1, @github_handle2)
-Package Name: Package name here
+Package Name: <!--package-name--> yourPackageName<!--end-package-name-->
 One-Line Description of Package: Description here 
 Repository Link:  <!--target-repository--> <!--end-target-repository-->
 Version submitted: <!--version-submitted--> <!--end-version-submitted--> 
