@@ -1,6 +1,6 @@
 ---
 
-🎉 {{package-name}} has been approved by pyOpenSci! Thank you <maintainer-name-here> for submitting {{package-name}} and many thanks to <reviewer-names-here> for reviewing this package! 😸
+🎉 {{package-name}} has been approved by pyOpenSci! Thank you {{author-handle}} for submitting {{package-name}} and many thanks to <reviewer-names-here> for reviewing this package! 😸
 
 ## Author Wrap Up Tasks
 
