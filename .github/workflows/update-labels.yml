@@ -1,0 +1,13 @@
+on:
+  issues:
+    types: [labeled]
+jobs:
+  Move_Labeled_Issue_On_Project_Board:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+      with:
+        action-token: "${{ secrets.UPDATE_BOARD }}"
+        project-url: "https://github.com/orgs/github/projects/10"
+        column-name: "under-review"
+        label-name: "1/editor-assigned"
